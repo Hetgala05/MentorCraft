@@ -1,0 +1,9 @@
+p{
+  padding: 0.125rem;
+} 
+
+li:hover {
+  background-color: #F2F2F2;  /*Change background color on hover */
+  transition-duration:400ms;
+  color: black;
+} 
